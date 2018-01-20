@@ -1,0 +1,63 @@
+body{
+    background-image: url("images/golff.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.dropdown {
+    font-size: 25px;
+    margin: 10px 0;
+}
+.courselist{
+    font-size: 20px;
+}
+.info{
+    font-size: 22px;
+}
+.tablethingy{
+    width:60px;
+}
+.img{
+    box-shadow:10px 10px 5px #555555;
+}
+.golumn{
+    border: 1px solid black;
+    width: 47px;
+    min-height: 10px;
+}
+.scourColumn{
+    display: flex;
+    height: 160px;
+}
+.card{
+    display: flex;
+    margin: 10px;
+    padding: 10px;
+
+}
+.playercolumn {
+    margin: 75px 0 0 0;
+}
+.person{
+    padding: 0 5px 8PX;
+}
+.holeinput{
+    width: 45px;
+    min-height: 10px;
+}
+.holeheader{
+    min-height: 40px;
+}
+.deleteplayerstyle{
+    display: flex;
+}
+.yards{
+    font-size: 10px;
+}
+#teeselect{
+    margin: 10px;
+}
+.holeheadertotal{
+    height: 74px;
+}
+
+
